@@ -18,6 +18,6 @@
            
  ####   Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
 
-         git clone https://github.com/Soumyaranjan-Pati/Project1
+         git clone https://github.com/Soumyaranjan-Pati/rest1
 
          Imported it in STS or any other Java IDE.
